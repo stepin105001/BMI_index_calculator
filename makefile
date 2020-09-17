@@ -1,6 +1,6 @@
   
 # Name of the project
-PROJECT_NAME =hello_world
+PROJECT_NAME =BMI_index_calculator
 
 # Output directory
 BUILD = build
