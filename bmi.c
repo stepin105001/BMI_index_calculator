@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void call_function() {
+void call_bmi() {
    float weight,height;
    printf("enter weight");
    scanf("%f",&weight);
