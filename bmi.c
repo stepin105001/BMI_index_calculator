@@ -6,7 +6,7 @@ void call_bmi() {
    scanf("%f",&weight);
    printf("enter height");
    scanf("%f",&height);
-   float bmi = BMI(weight,height);
+   float bmi = weight/height*2;
    printf("BMI index is : %.2f ",bmi);
    return 0;
 }
